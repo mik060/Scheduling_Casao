@@ -1,7 +1,6 @@
 
 
 
-
 In using git helps to keep my project organized and secure.
 
 
