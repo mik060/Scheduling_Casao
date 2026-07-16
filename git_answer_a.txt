@@ -8,6 +8,15 @@ git branch -M main
 git remote add origin main
 git commit -m "description
 git push -u origin main
+git branch
+git add *
+git commit -m "message"
+git origin push main
+
+
+
+
+In using git helps to keep my project organized and secure.
 
 
 
