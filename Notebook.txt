@@ -1,0 +1,2 @@
+open source is software whose source code is publicly available for anyone
+Freeware is software that is available to use at no costs
