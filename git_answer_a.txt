@@ -1,3 +1,4 @@
+
 ~git init
 ~git config user.name "mik060" and user.email "" (if global need to add "--global")
 ~git commit -m "description"
@@ -12,3 +13,14 @@ git branch
 git add *
 git commit -m "message"
 git origin push main
+
+
+
+
+In using git helps to keep my project organized and secure.
+
+
+
+
+ 
+
