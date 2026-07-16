@@ -1,10 +1,14 @@
-
-
-
-
-In using git helps to keep my project organized and secure.
-
-
-
-
- 
+~git init
+~git config user.name "mik060" and user.email "" (if global need to add "--global")
+~git commit -m "description"
+~git remote add origin 
+~git add *
+~git branch
+~git branch -M main
+git remote add origin main
+git commit -m "description
+git push -u origin main
+git branch
+git add *
+git commit -m "message"
+git origin push main
